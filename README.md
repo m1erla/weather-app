@@ -1,4 +1,4 @@
-![current-weather-ss](src\assets\weather-ss.png)
+![current-weather-ss](src/assets/weather-ss.png)
 
 # Getting Started with Create React App
 
