@@ -5,12 +5,15 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Dependencies
-
-You need to install some packages:
+### You need to install some packages:
+---
+```sh
 
 npm install react-accessible-accordion
 
 npm install react-select-async-paginate
+```
+
 
 ## Available Scripts
 
